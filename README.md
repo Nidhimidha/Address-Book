@@ -2,14 +2,6 @@
 
 > A Vue.js project
 
-## Build Setup
-``` bash
-
-
-# install dependencies
-npm install vue bootstrap bootstrap-vue axios
-
-
 # install dependencies
 npm install
 
